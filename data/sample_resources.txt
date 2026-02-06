@@ -1,0 +1,3 @@
+Python Basics - Official Docs
+Statistics - Khan Academy
+Machine Learning - Coursera Intro Course
